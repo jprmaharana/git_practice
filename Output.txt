@@ -1,3 +1,4 @@
 Output file
 added from branch
 test1 branch
+from test branch
